@@ -1,5 +1,7 @@
 h1{
-    color:aqua
-    
-    
+    color:aqua;
+    width:120px;  
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:120px;
+    margin-top:50px;
 }
