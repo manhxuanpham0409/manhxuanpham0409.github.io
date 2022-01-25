@@ -1,10 +1,30 @@
-h1{
-    color:aqua;
-    width:120px;  
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left:550px;
+.to{
+    display:flex;
+    width:1500px;
+    height:350px;
+    
    
+    justify-content:space-between;
+} 
+.phai{
+    width: 1000px;
+    
 }
+.trai{
+    width:480px;
+    height:800px;
+    
+}   
 img{
-   width:50%;
+    width:100%;
 }
+.name{
+    margin-left:400px;
+    color:greenyellow;
+    font-size:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}    
+.fanpage{
+    color:purple;
+}
+    
